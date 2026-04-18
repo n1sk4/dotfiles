@@ -1,0 +1,2 @@
+starship v1.24.2:
+    starship
