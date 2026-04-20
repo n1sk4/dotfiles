@@ -116,3 +116,4 @@ fi
 eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"
 fastfetch -c examples/17.jsonc --logo linux_small
 eval "$(starship init bash)"
+export PATH="$HOME/.local/bin:$PATH"
